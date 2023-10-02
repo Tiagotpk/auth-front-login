@@ -1,7 +1,8 @@
 # Auth-Front-Login
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
-<p align="center">App para organizar suas tarefas, onde você pode adicioná-las, modificá-las e removê-las quando quiser.</p>
+<br>
+<p align="center">Front Page de Login</p>
 
 ## Tenologias Utilizadas
  <p align="left"> 
@@ -32,7 +33,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  </p>
  <p align="left">
  ⚡ - Caso os dados não forem checados irá aparecer uma tela de erro indicando que o servidor pode ter caido ou estar desativado, como mostra a imagem abaixo. Utilizamos também um servidor fake de JWT para que a aplicação rodasse de forma correta.
- </p>
+ </p align="center">
  <p>
  <img alt="auth-front Login" src=".github/fail.jpg">
  </p>
